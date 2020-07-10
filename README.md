@@ -1,4 +1,4 @@
-# PathHyp: Hyperbolic attention model for histopathology image classification
+# PathHyperbolic: Hyperbolic attention model for histopathology image classification
 
 This is the repo for our paper hyperbolic attention model for histopathology image.
 
